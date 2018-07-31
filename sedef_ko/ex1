@@ -1,0 +1,14 @@
+simcenter@SimCenter-VirtualBox:~$ cd Documents
+simcenter@SimCenter-VirtualBox:~/Documents$ cd GitHub
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub$ ls
+SimCenterBootcamp
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub$ cd SimCenterBootcamp
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub/SimCenterBootcamp$ ls
+Code  hellos.c  Presentations  README.md  sedef_ko
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub/SimCenterBootcamp$ cd sedef_kosimcenter@SimCenter-VirtualBox:~/Documents/GitHub/SimCenterBootcamp/sedef_ko$ lsa.out  count.c  helloc.c  README.txt
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub/SimCenterBootcamp/sedef_ko$ gedit prdct.c
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub/SimCenterBootcamp/sedef_ko$ gcc prdct.c -o product.out
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub/SimCenterBootcamp/sedef_ko$ ./product.out
+product of 1 and 2 is 2 
+simcenter@SimCenter-VirtualBox:~/Documents/GitHub/SimCenterBootcamp/sedef_ko$ 
+
